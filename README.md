@@ -1,2 +1,3 @@
-# docker-jitsi-meet-from-source
-Tutorial to make a docker compose for Jitsi meet and its essential components from source
+# Jitsi Meet on Docker
+
+Inspiration from <https://github.com/jitsi/docker-jitsi-meet>, I make a tutorial for build from its source code, not from debian packages.
